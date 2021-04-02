@@ -1,0 +1,13 @@
+input{
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    margin-bottom: 10px;
+    width: 350px;
+    text-align: left;
+    color: #000000;
+    background-color: #ADACAA;    
+    border: 0;
+    outline: 0;
+    transition: all .2s;
+    z-index: 1;
+}

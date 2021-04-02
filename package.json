@@ -5,10 +5,12 @@
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "dev": "BROWSER=none react-scripts start",
+    "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -18,5 +20,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMouze/rpg-react-app.git"
+  },
+  "author": " (WhalesAndKoalas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMouze/rpg-react-app/issues"
+  },
+  "homepage": "https://github.com/MrMouze/rpg-react-app#readme"
 }
